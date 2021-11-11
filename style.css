@@ -1,0 +1,36 @@
+body{
+  background-color:powderblue;
+  text-align: center;
+}
+span{
+  font-weight: 900;
+  font-size: 50px;
+  font-style: oblique;
+  color: blue;
+}
+input{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  font-weight: 900;
+  background-color: powderblue;
+
+}
+.btn:hover{
+  background-color: skyblue;
+  color: blue;
+}
+.landing{
+  height: 60vh;
+  margin-top: 40%;
+}
+.hr{
+  height: 10px;
+  background-color: black;
+}
+marquee{
+  color: blue;
+  font-weight: 900;
+}

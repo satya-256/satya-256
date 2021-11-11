@@ -1,0 +1,22 @@
+#in{
+  border: 1;
+  border-radius: 10px;
+}
+#to{
+  border-radius: 10px;
+}
+#phone{
+  border-radius: 10px;
+}
+#on:hover{
+  background-color: skyblue;
+  color: blue;
+}
+#on{
+  background-color: powderblue;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+}
